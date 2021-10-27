@@ -1,11 +1,11 @@
-=== EasyGram Instagram Widget ===
-Contributors: webxhq, mcgreat, 1dot30
-Donate link: https://anthonygreat.com/donate
-Tags: instagram, instagram widget, instagram feed, instagram gallery, instagram images, instagram hashtag, sidebar, images, photos, widget, instagram photos, embed instagram, show instagram, gram
-Requires at least: 3.7
-Tested up to: 5.2
-Stable tag: 2.2
-License: GPLv2 or later
+# EasyGram Instagram Widget
+Contributors: webxhq, mcgreat, 1dot30 <br/>
+Donate link: https://anthonygreat.com/donate <br/>
+Tags: instagram, instagram widget, instagram feed, instagram gallery, instagram images, instagram hashtag, sidebar, images, photos, widget, instagram photos, embed instagram, show instagram, gram <br/>
+Requires at least: 3.7<br/>
+Tested up to: 5.2 <br/>
+Stable tag: 2.2 <br/>
+License: GPLv2 or later <br/>
 License URI: http://www.gnu.org/licenses/gpl.html
 
 Easily display Instagram photos as a widget that looks good on any WordPress theme.
